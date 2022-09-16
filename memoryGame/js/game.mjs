@@ -54,8 +54,8 @@ function drawCards(stage) {
   const cards = [];
   const offsetX = 10;
   const offsetXY = 10;
-  const paddingX = 10;
-  const paddingY = 10;
+  const paddingX = 35;
+  const paddingY = 35;
   for (let i = 0; i < 2; i++) {
     for (let j = 0; j < 4; j++) {
       for (let c = 0; c < 4; c++) {
